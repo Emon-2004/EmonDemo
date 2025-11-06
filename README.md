@@ -1,2 +1,3 @@
 # EmonDemo
-It's a Demo Repository
+This is my first Git Repository.
+Author - Emon
